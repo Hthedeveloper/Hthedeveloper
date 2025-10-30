@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hthedeveloper
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React, Express, Postgresql
 - 📫 How to reach me email @ fikrihaikal@iblam.ac.id
 - 😄 Pronouns: mr
 - ⚡ Fun fact: not come from uni
